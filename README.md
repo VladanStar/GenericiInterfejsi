@@ -1,0 +1,2 @@
+# GenericiInterfejsi
+Napraviti interfejs D koja ima metodu printClass. Potom napraviti klase G i F koje implementiraju klasu D i imaju svoje implementacije metode printClass koje vraćaju da su implementacije klase D. Napraviti klasu GenericiInterfejsi koja prima parametar T koji nasleđuje interfejs D. Napraviti u ovoj klasi metodu doRunTest koja zove printClass nad prosleđenom T objektu koji implementira D
